@@ -60,28 +60,6 @@ Full-stack software engineer with around **10 years of experience** building pro
 
 ---
 
-## 💼 Selected Experience
-
-### ✈️ Jetstar Asia — Full Stack Developer
-**React • Next.js • TypeScript • Python • FastAPI • PostgreSQL • AWS**
-
-Built customer-facing booking and servicing workflows, backend APIs, reservation/payment integrations, role-based access, database workflows, automated tests, and staged deployments.
-
-### 🛠️ Kaodim — Full Stack Developer
-**Angular • Java • Spring Boot • PostgreSQL • Redis • RabbitMQ**
-
-Worked on customer booking and provider-management systems. Improved booking API latency from approximately **900 ms to 520 ms** through query optimization, indexing, Hibernate tuning, and caching.
-
-### 🛒 Honestbee — Full Stack Developer
-**React • Redux • Ruby on Rails • PostgreSQL • Sidekiq**
-
-Built and maintained browsing, cart, checkout, delivery, and order-tracking workflows. Improved catalog import processing from approximately **60 minutes to 35 minutes**.
-
-### 📊 GoBear — Full Stack Developer
-**AngularJS • Java • Spring Boot • JPA • SQL**
-
-Developed comparison interfaces, filters, forms, backend endpoints, provider-feed imports, and database optimizations.
-
 ---
 
 ## 🤖 AI-Assisted Development
@@ -89,16 +67,6 @@ Developed comparison interfaces, filters, forms, backend endpoints, provider-fee
 I use **Cursor** and **Claude Code** for implementation, debugging, refactoring, testing, and code review. I review every change, run tests, and verify API/database behavior before release.
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=antoniomelissa0916&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomelissa0916&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
 
 ---
 
