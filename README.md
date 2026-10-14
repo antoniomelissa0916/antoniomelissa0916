@@ -6,9 +6,6 @@
 
 Building reliable, scalable web applications across frontend, backend, APIs, databases, testing, and cloud delivery.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melissa%20Antonio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-antonio-9b5452440)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonio.melissa0916@gmail.com)
-
 </div>
 
 ---
@@ -65,15 +62,6 @@ Full-stack software engineer with around **10 years of experience** building pro
 ## 🤖 AI-Assisted Development
 
 I use **Cursor** and **Claude Code** for implementation, debugging, refactoring, testing, and code review. I review every change, run tests, and verify API/database behavior before release.
-
----
-
----
-
-## 🌐 Connect With Me
-
-- **LinkedIn:** [linkedin.com/in/melissa-antonio-9b5452440](https://www.linkedin.com/in/melissa-antonio-9b5452440)
-- **Email:** [antonio.melissa0916@gmail.com](mailto:antonio.melissa0916@gmail.com)
 
 ---
 
